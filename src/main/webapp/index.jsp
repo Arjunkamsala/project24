@@ -253,7 +253,7 @@
 
 <!-- HERO -->
 <div class="hero">
-    <h1>🔥 New TShirt Collections 2024</h1>
+    <h1>🔥 New TShirt Collections 2026</h1>
     <p>Premium Quality | 100% Cotton | Free Shipping above ₹499</p>
     <a href="#products" class="shop-btn">Shop Now</a>
 </div>
