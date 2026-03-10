@@ -3,7 +3,7 @@
 # Base: Java 11 + Tomcat 9
 # ================================
 
-FROM openjdk:11-jdk-slim
+FROM eclipse-temurin:11-jdk
 
 LABEL maintainer="Mahesh Shopping"
 LABEL description="Mahesh Shopping TShirt App on Tomcat"
