@@ -241,7 +241,7 @@
 
 <!-- HEADER -->
 <header>
-    <div class="logo">Mahesh <span>Shopping</span></div>
+    <div class="logo">Kamsala <span>Shopping</span></div>
     <nav>
         <a href="#">Home</a>
         <a href="#">TShirts</a>
